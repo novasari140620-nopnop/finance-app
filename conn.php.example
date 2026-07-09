@@ -1,0 +1,3 @@
+<?php
+$connect = mysqli_connect("localhost", "username_kamu", "password_kamu", "nama_database");
+?>
